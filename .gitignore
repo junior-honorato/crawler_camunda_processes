@@ -1,0 +1,10 @@
+# Ignorar arquivos de ambiente e senhas
+.env
+
+# Ignorar pastas de logs geradas pelo script
+logs/
+*.log
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
